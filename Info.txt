@@ -1,0 +1,55 @@
+		 :: 27/09/22  ->  DART10 ::
+	Se hizo una inversion de Total de:   $1000
+
+	Donde el Costo unitario es de:   $12.5
+
+	Se recomienda un Precio Unitario entre $15 y $16.25
+
+	Por Caja/Bulto/Otro de entre  $505 y  $510
+
+	Por vta. unitaria se esperaria ganancia de entre $100 y $150
+
+		 :: 27/09/22  ->  PRIMO8 ::
+	Se hizo una inversion de Total de:   $960
+
+	Donde el Costo unitario es de:   $24
+
+	Se recomienda un Precio Unitario entre $28.8 y $31.2
+
+	Por Caja/Bulto/Otro de entre  $485 y  $490
+
+	Por vta. unitaria se esperaria ganancia de entre $96 y $144
+
+			 :: 27/09/22  ->  855 ::
+	Se hizo una inversion de Total de:   $840
+
+	Donde el Costo unitario es de:   $28
+
+	Se recomienda un Precio Unitario entre $33.6 y $36.4
+
+	Por Caja/Bulto/Otro de entre   $285 y  $290
+
+	Por vta. unitaria se esperaria ganancia entre $56 y  $84
+
+			 :: 27/09/22  ->  DART ::
+	Se hizo una inversion de Total de:   $200
+
+	Donde el Costo unitario es de:   $8
+
+	Se recomienda un Precio Unitario entre $9.6 y $10.4
+
+	Por Caja/Bulto/Otro de entre   $205 y  $210
+
+	Por vta. unitaria se esperaria ganancia entre $40 y  $60
+
+			 :: 27/09/22  ->  PLATOS ::
+	Se hizo una inversion de Total de:   $600
+
+	Donde el Costo unitario es de:   $12.5
+
+	Se recomienda un Precio Unitario entre $15 y $16.25
+
+	Por Caja/Bulto/Otro de entre   $155 y  $160
+
+	Por vta. unitaria se esperaria ganancia entre $30 y  $45
+
